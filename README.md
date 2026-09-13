@@ -136,6 +136,7 @@ DeepSeek Harness is built on an architecture where every capability — tools, U
 - [dsh-context-doctor](https://github.com/Zhenyu98/dsh-context-doctor) - Audit exactly what every request carries: token cost of the AGENTS.md chain, skill catalog, and tool schemas, with duplicate/conflict detection.
 - [dsh-library](https://github.com/PerryLink/dsh-library) - Turns local markdown and text documents into a queryable knowledge base with hybrid semantic and keyword search, citation verification, and source injection.
 - [dsh-memento](https://github.com/PerryLink/dsh-memento) - Bounded, layered, approval-gated cross-session memory for DSH, with a SQLite provider and frozen snapshot injection.
+- [dsh-personal-directive](https://github.com/PerryLink/dsh-personal-directive) - Personal directive injector for DeepSeek Harness: system-prompt injection plus tools, with a top-bar runtime toggle (framework edition; fork of liucaimao2026/dsh-personal-directive).
 
 - [OpenViking](https://github.com/volcengine/OpenViking) - Self-evolving context database for AI agents: unify agent memory, knowledge RAG, and skills, with DeepSeek Harness support.
 - [memsearch](https://github.com/zilliztech/memsearch) - A persistent, unified memory layer for all your AI agents (Claude Code, Codex, DSH), backed by Markdown and Milvus.

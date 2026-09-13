@@ -262,4 +262,5 @@ export const PLUGINS: Plugin[] = [
   { name: "dsh-skin-market", url: "https://github.com/kingOfSoySauce/dsh-skin-market", desc: "A DeepSeek Harness skin market with 200+ skins and a community rating system.", cat: "Related Lists", chip: "Lists", sub: null, stars: 116 },
   { name: "dsh-suite", url: "https://github.com/whyihaveyou/dsh-suite", desc: "A living DeepSeek Harness plugin directory — refreshed hourly and compatibility-tested.", cat: "Related Lists", chip: "Lists", sub: null, stars: 50 },
   { name: "dsh-plugin-workshop", url: "https://github.com/yyyyukari/dsh-plugin-workshop", desc: "A Steam Workshop-style plugin browser for the DSH web UI.", cat: "Related Lists", chip: "Lists", sub: null, stars: 25 },
+  { name: "dsh-personal-directive", url: "https://github.com/PerryLink/dsh-personal-directive", desc: "Personal directive injector for DeepSeek Harness: system-prompt injection plus tools, with a top-bar runtime toggle (framework edition; fork of liucaimao2026/dsh-personal-directive).", cat: "Memory & Context", chip: "Memory", sub: null, stars: 0 },
 ];
